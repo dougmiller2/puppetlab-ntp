@@ -1,0 +1,15 @@
+{
+  "name": "dougmiller2-ntp",
+  "version": "0.1.0",
+  "author": "dougmiller2",
+  "summary": "NTP module for puppet lab.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/dougmiller2/puppetlab-ntp",
+  "project_page": "https://github.com/dougmiller2/puppetlab-ntp",
+  "issues_url": "https://github.com/dougmiller2/puppetlab-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
