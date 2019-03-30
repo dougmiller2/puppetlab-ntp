@@ -81,3 +81,7 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# puppetlab-ntp
+NTP Puppet module for lab
+>>>>>>> 21740a065be434404080ce0d9c3cce2d78b4a493
